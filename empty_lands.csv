@@ -1,5 +1,5 @@
-name,latitude,longitude,district,area
-Land A,36.205,44.025,Center,1200
-Land B,36.210,44.015,Center,800
-Land C,36.190,44.035,South,1500
-Land D,36.180,44.020,North,2000
+name,latitude,longitude,district,area,type
+Land A,36.205,44.025,Center,1200,empty
+Land B,36.210,44.015,Center,800,empty
+Farm X,36.190,44.035,South,5000,agri
+Farm Y,36.180,44.020,North,7000,agri
